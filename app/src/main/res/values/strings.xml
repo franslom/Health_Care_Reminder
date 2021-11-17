@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Health Care Reminder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_item_new">New</string>
+    <string name="menu_item_save">Save</string>
+    <string name="menu_item_delete">Cancel</string>
+    <string name="title_activity_alert">AlertActivity</string>
+    <string name="title_activity_pill">PillActivity</string>
+</resources>
